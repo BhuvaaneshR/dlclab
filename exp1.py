@@ -1,3 +1,4 @@
+#CREATE A NEURAL NETWORK TO RECOGNIZE HANDWRITTEN DIGITS USING MNIST DATASET
 # Step 1: Import necessary libraries
 import numpy as np
 import matplotlib.pyplot as plt
