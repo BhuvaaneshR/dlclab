@@ -1,3 +1,4 @@
+#Sentiment Classification of Text using RNN
 import numpy as np
 from tensorflow.keras.datasets import imdb
 from tensorflow.keras.preprocessing.sequence import pad_sequences
